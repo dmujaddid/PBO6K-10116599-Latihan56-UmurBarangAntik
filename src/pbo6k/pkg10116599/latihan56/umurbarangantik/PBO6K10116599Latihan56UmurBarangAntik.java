@@ -16,6 +16,12 @@ public class PBO6K10116599Latihan56UmurBarangAntik {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Radio radio = new Radio();
+        
+        
+        System.out.println("Nama barang antik : " );
+        System.out.println("Umur barang antik ini adalah : ");
     }
     
 }
